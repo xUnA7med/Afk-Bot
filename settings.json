@@ -6,8 +6,8 @@
   },
 
   "server": {
-    "ip": "localhost",
-    "port": 25565,
+    "ip": "kingscity2.aternos.me",
+    "port": 30329,
     "version": "1.17.1"
   },
 
@@ -25,8 +25,8 @@
     },
 
     "anti-afk": {
-      "enabled": false,
-      "sneak": false
+      "enabled": true,
+      "sneak": true
     },
 
     "chat-messages": {
